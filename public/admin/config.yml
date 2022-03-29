@@ -92,7 +92,7 @@ collections:
     label: "Posts"
     folder: "content/posts/"
     extension: "json"
-    format: "frontmatter"
+    format: "json"
     create: true
     slug: "{{slug}}"
     identifier_field: slug
